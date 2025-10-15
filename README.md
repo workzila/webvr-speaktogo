@@ -1,5 +1,6 @@
-# Speak To Go ( this is a greate metaphor of domesitc your ai make it ameme build showing how you can invite to your home and become part of the function in addition would be the canvas illustrating the  culture current rviver basin metaphors )
-
+# Speak To Go ( this is a greate metaphor of domesitc your ai make it ameme build showing how you can invite to your home and become part of the function in addition would be the canvas illustrating the  culture current rviver basin metaphors as it relates to cultural current position )
+alsomake the ask as to how i could align it with the cultural provisioning 
+- IN addition i could use this to the magnet to undersatind 
 Some libraries used in **[Speak To Go](https://speaktogo.withgoogle.com/)**
 
 
